@@ -6,7 +6,7 @@ Full stack engineer. MSc student in [Software engineering at Sapienza](https://c
    - [Instant](https://instantcheckout.io/): the fastest checkout experience available on the web
    - [Sgarro](https://sgarrospesafacile.it/): help people finding the food they love online, compare kcals, price and ingredients 
 - 🦄 I wish in the next months:
-   - Publish more projects on my GitHub rofile
+   - Publish more projects on my GitHub profile
    - Contribute to open source
    - Write my first blog post
 - 🌱 I’m currently learning:
@@ -14,6 +14,7 @@ Full stack engineer. MSc student in [Software engineering at Sapienza](https://c
    - [Cloud computing](https://azure.microsoft.com/en-us/overview/what-is-cloud-computing/)
    - [Functional programming](https://en.wikipedia.org/wiki/Functional_programming)
    - [NestJS](https://docs.nestjs.com/)
+   - [Cloudflare workers](https://workers.cloudflare.com/)
    - Other thousands of stuffs in my learning wishlist ...
 - 💬 Ask me about: Javascript, Typescript, NodeJS, Angular
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/attiliourb/)
