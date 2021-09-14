@@ -9,7 +9,7 @@ Full stack engineer. MSc student in [Software engineering at Sapienza](https://c
    - Ideas for a portfolio
 - 🦄 I wish in the next 3-6 months:
    - Know more about React and Redux
-- 🦄 I wish in the next 6-12 months:
+- ✨ I wish in the next 6-12 months:
    - Have more projects on my GitHub
    - Work on open source projects
    - Work more on my side projects
