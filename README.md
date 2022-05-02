@@ -15,6 +15,7 @@ Full stack engineer. MSc student in [Software engineering at Sapienza](https://c
    - Redux
    - [Redux saga](https://redux-saga.js.org/)
    - [ThreeJS](https://threejs.org/)
+   - How to improve my work-life balance
 - 💬 Ask me about: Javascript, Typescript, NodeJS, Angular
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/attiliourb/)
 - 😄 Pronouns: He/Him
