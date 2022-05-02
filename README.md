@@ -5,18 +5,16 @@ Full stack engineer. MSc student in [Software engineering at Sapienza](https://c
 - 🔭 I’m currently working on:
    - [Passion.io](http://passion.io/): online platform to build and publish online courses on branded PWA/Mobile apps
    - [Sgarro](https://sgarrospesafacile.it/): help people finding the food they love online, compare kcals, price and ingredients
-   - A POC series to learn specific concepts/languages/framework
-   - Ideas for a portfolio
 - 🦄 I wish in the next 3-6 months:
    - Know more about React and Redux
 - ✨ I wish in the next 6-12 months:
    - Have more projects on my GitHub
-   - Work on open source projects
    - Work more on my side projects
 - 🌱 I’m currently learning:
    - React
    - Redux
    - [Redux saga](https://redux-saga.js.org/)
+   - [ThreeJS](https://threejs.org/)
 - 💬 Ask me about: Javascript, Typescript, NodeJS, Angular
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/attiliourb/)
 - 😄 Pronouns: He/Him
