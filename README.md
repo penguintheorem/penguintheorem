@@ -1,6 +1,6 @@
 ### Hello, i'm Attilio! 👋
 
-Full stack engineer. MSc student in [Software engineering at Sapienza](https://corsidilaurea.uniroma1.it/en/corso/2020/29932/programmazione?current_erogata=a41c2b30-475a-45cf-8bb1-cffc83e33d90&guid_cv=18abd0dd-d6a1-4256-8ceb-c070b1a0bb41). I started writing code in [Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal) and [Z80 Assembly](https://www.msx.org/wiki/Z80_Assembler_for_Dummies) during high school and never stopped.
+Full stack engineer. I started writing code in [Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal) and [Z80 Assembly](https://www.msx.org/wiki/Z80_Assembler_for_Dummies) during high school and never stopped.
 
 - 🔭 I’m currently working on:
    - [Passion.io](http://passion.io/): online platform to build and publish online courses on branded PWA/Mobile apps
