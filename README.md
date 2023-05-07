@@ -4,7 +4,7 @@ Full stack engineer. I started writing code in [Pascal](https://en.wikipedia.org
 
 - 🔭 I’m currently working on:
    - [Passion.io](http://passion.io/): online platform to build and publish online courses on branded PWA/Mobile apps
-   - [Sgarro](https://sgarrospesafacile.it/): help people finding the food they love online, compare kcals, price and ingredients
+   - **(Inactive)** [Sgarro](https://sgarrospesafacile.it/): help people finding the food they love online, compare kcals, price and ingredients
 - 🦄 I wish in the next 3-6 months:
    - Know more about React and Redux
 - ✨ I wish in the next 6-12 months:
@@ -13,10 +13,10 @@ Full stack engineer. I started writing code in [Pascal](https://en.wikipedia.org
 - 🌱 I’m currently learning:
    - React
    - Redux
-   - [Redux saga](https://redux-saga.js.org/)
-   - [ThreeJS](https://threejs.org/)
+   - System design
+   - AWS
    - How to improve my work-life balance
-- 💬 Ask me about: Javascript, Typescript, NodeJS, Angular
+- 💬 Ask me about: Javascript, Typescript, NodeJS, Angular, React
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/attiliourb/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love penguins and math theorems, this explain my GitHub username
