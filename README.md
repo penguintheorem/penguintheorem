@@ -11,6 +11,7 @@ Full stack engineer. I started writing code in [Pascal](https://en.wikipedia.org
    - Have more projects on my GitHub
    - Work more on my side projects
 - 🌱 I’m currently learning:
+   - Reading the Clean Architecture and Clean Code book
    - React
    - Redux
    - System design
