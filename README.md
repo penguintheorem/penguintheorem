@@ -8,8 +8,8 @@ Software engineer. I started writing code in [Pascal](https://en.wikipedia.org/w
    - 🚴 Lose weight and stay fit
    - 💰 Investing
    - 🎒 Learn something every month
-      - 📘 I'm currently learning (October 2024): **React and TDD practices**
-      - ✨ Additionally I'm trying to **start contributing to open source**
+      - 📘 I'm playing with [coding challenges](https://codingchallenges.fyi/challenges/intro)
+      - 🎮 I'm following the [Unity3D Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/attiliourb/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love penguins and math theorems, this explain the origin of my GitHub username
